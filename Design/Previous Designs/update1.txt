@@ -1,0 +1,31 @@
+1. PacMan.py: Now functioning With full AI and game logic.
+(Additional Features including the energizer to be imple-
+mented in the future.)
+286 lines
+
+
+2. Maths.py: Test functions added. The Vector Class and the 
+Point class extended beyond 3D. Wall Class and Screen Class
+refined to improve the quality of 3D projection
+572 lines
+
+
+3. Characters.py: Separated from the original file. PacMan 
+class rewritten so that the pacMan is no longer grind-based.
+It can now move freely on the board.
+304 lines
+
+
+4. Bride.py: written to convert a 2D board to 3D models to be
+drawn by 3D projection.py. Currently using a default board
+for testing purposes. Changeable wall colors to be added
+using Colors.py.
+55 lines
+
+
+5. 3D projection.py: a compare function and a isLegal func-
+tion added to solve the sequence in which the walls are drawn
+Mouse.py is combined to realize mouse controlled view.
+162 lines
+
+total: 1379 lines

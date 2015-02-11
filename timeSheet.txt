@@ -1,0 +1,81 @@
+Week 1
+1. reading about 3D projection 
+http://www.cs.cmu.edu/afs/cs/academic/class/15462-f11/
+http://en.wikipedia.org/wiki/3D_projection
+	2 hours
+
+2. reading about pacman AI and rules
+http://home.comcast.net/~jpittman2/pacman/pacmandossier.html
+http://gameinternals.com/post/2072558330/understanding-pac-man-ghost-behavior
+	1 hour
+
+3. writing Maths.py, including Matix, Vector, Point class
+	6 hours
+
+4. writing Colors.py, including Color class
+	0.5 hour
+
+5. writing 3D projection, not yet finished
+	2 hours
+
+6. writing PacMan.py, not yet finished
+	1.5 hour
+
+
+7. writing Project Proposal
+	0.5 hour
+
+8. writing Competitive Analysis
+	0.5 hour
+
+9. drawing Story Board
+	0.5 hour
+
+Week 2
+10. continue to work on PacMan.py
+	2.5 hourss
+
+11. writing test functions for Maths.py
+	2 hours
+
+12. working on bridge
+	2 hours
+
+12. rewriting Maths.py to implement 2D points and 2D vectors
+	1 hour
+
+13. wrapping up PacMan.py
+	2 hours
+
+14. debugging 3D projection.py
+	3 hours
+
+Week 3
+
+15. rewriting bridge.py so that it can take any arbitrary
+board
+	2 hours
+
+16. writing main.py combining all the files together
+	2 hours
+
+17. refining the Bridge to improve its efficiency
+	6 hours
+
+18. writing User Interface(Life,Score,splash screen,end screen)
+	6 hours
+
+19. writng the Button Class
+	1 hour
+
+20. writing the MiniMap Class
+	1 hour
+
+21. adding credits page
+	1 hour
+
+22. writing tutorial animation
+	5 hours
+
+23. writing changing skies
+	0.5 hour
